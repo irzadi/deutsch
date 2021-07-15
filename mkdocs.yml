@@ -1,7 +1,0 @@
-site_name: Deutsch A1 - Sternstunde
-site_url: https://example.com/
-nav:
-    - Home: index.md  
-    - Einfuehrung: einfuhrung.md
-    - About: about.md
-theme: readthedocs
